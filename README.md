@@ -32,13 +32,13 @@ In the first terminal:
 
 Bash
 python service_a.py
-# Output: Running on [http://0.0.0.0:8080](http://0.0.0.0:8080)
+# Output: Running on [http://0.0.0.0:8080](http://0.0.0.0:8080)// your localhost
 2. Start Service B (Client Service)
 In the second terminal:
 
 Bash
 python service_b.py
-# Output: Running on [http://0.0.0.0:8081](http://0.0.0.0:8081)
+# Output: Running on [http://0.0.0.0:8081](http://0.0.0.0:8081)  your localhost
 Testing & Verification
 1. Success Scenario
 Run the following command in a third terminal (or a browser):
