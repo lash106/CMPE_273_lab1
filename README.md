@@ -17,8 +17,8 @@ This project demonstrates a simple distributed system with two services communic
 
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
-   cd <YOUR_REPO_NAME>
+   git clone https://github.com/lash106/CMPE_273_lab1.git
+   cd CMPE_273_lab1
 
    Install dependencies:
 
